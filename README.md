@@ -8,7 +8,7 @@ Below is information purely about the Godot version of the program.
 To download the lastest Godot version go to the [releases page](https://github.com/undefined-duck/Middleton-Timetable/releases/latest) and download the portable or installer versions.
 
 ## Links to sections
-- [Downloading from kamar](#importing-from-kamar)
+- [Importing from kamar](#importing-from-kamar)
 - [Saving and loading timetables](#saving-and-loading-timetables)
 
 ## Importing from [Kamar](https://middleton.school.kiwi/)
